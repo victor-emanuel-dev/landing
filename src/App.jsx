@@ -15,20 +15,46 @@ export default function App() {
       <section>
         <h2>Serviços</h2>
         <ul>
-          <li>Desenvolvimento de aplicações web</li>
-          <li>Dashboards e sistemas administrativos</li>
-          <li>Manutenção e evolução de sistemas existentes</li>
+          <li>Desenvolvimento de aplicações web escaláveis e performáticas</li>
+          <li>Dashboards interativos e sistemas administrativos complexos</li>
+          <li>
+            Manutenção e evolução de sistemas existentes com foco em qualidade
+          </li>
+          <li>Integração com APIs e serviços de terceiros</li>
         </ul>
       </section>
 
       <section>
         <h2>Como trabalho</h2>
         <ol>
-          <li>Entendimento do problema</li>
-          <li>Proposta técnica objetiva</li>
-          <li>Desenvolvimento com foco em qualidade</li>
-          <li>Entrega e suporte</li>
+          <li>
+            <strong>Entendimento do problema:</strong> Análise detalhada das
+            necessidades e objetivos do projeto
+          </li>
+          <li>
+            <strong>Proposta técnica objetiva:</strong> Definição clara de
+            escopo, prazos e tecnologias
+          </li>
+          <li>
+            <strong>Desenvolvimento com foco em qualidade:</strong> Código
+            limpo, testável e bem documentado
+          </li>
+          <li>
+            <strong>Entrega e suporte:</strong> Deploy eficiente e
+            acompanhamento pós-entrega
+          </li>
         </ol>
+      </section>
+
+      <section>
+        <h2>Tecnologias</h2>
+        <p>
+          Experiência sólida com <strong>React</strong>,{" "}
+          <strong>Angular</strong>, <strong>TypeScript</strong>,
+          <strong> Tailwind CSS</strong>, <strong>Next.js</strong>, e
+          ferramentas modernas de desenvolvimento. Sempre atualizado com as
+          melhores práticas e padrões da indústria.
+        </p>
       </section>
 
       <section>
@@ -36,7 +62,8 @@ export default function App() {
         <p>
           Esta página faz parte de um projeto demonstrativo que mostra
           organização de código, estrutura e boas práticas utilizadas em
-          aplicações reais.
+          aplicações reais. O código está disponível e reflete o padrão de
+          qualidade aplicado em todos os projetos.
         </p>
       </section>
 
@@ -44,12 +71,14 @@ export default function App() {
         <h2>Sobre</h2>
         <p>
           Desenvolvedor frontend com experiência em aplicações web robustas,
-          focado em clareza, manutenção e soluções práticas.
+          focado em clareza, manutenção e soluções práticas. Compromisso com
+          entregas de qualidade e comunicação transparente em todas as etapas do
+          projeto.
         </p>
       </section>
 
       <footer>
-        <p>Contato: contato@email.com</p>
+        <p>© 2025 • Contato: contato@email.com</p>
       </footer>
     </div>
   );
